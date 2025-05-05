@@ -28,7 +28,7 @@ I'm Liam Carter, a relentless bug hunter and cybersecurity aficionado with a pas
 
 ## 📬 Let’s Connect
 - 📩 **Email**: liamcarter0111@outlook.com  
-- 🐦 **X**: [@LiamTheBugSlayer](https://x.com/LiamTheBugSlayer)  
+- 🐦 **X**: [@LiamTheBugSlayer]([https://x.com/LiamBugSlayer]
 
 ## ⚡ Fun Facts
 - I’ve spent **72 hours straight** chasing a single bug (and won).  
