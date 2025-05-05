@@ -23,8 +23,7 @@ I'm Liam Carter, a relentless bug hunter and cybersecurity aficionado with a pas
 
 ## 🌟 Featured Projects
 - **[VulnScanner](https://github.com/liamcarter0111/VulnScanner)**: A Python-based tool for automated vulnerability scanning with customizable payloads. [Usage Guide](https://github.com/liamcarter0111/VulnScanner/blob/main/README.md)  
-- **[SecureAPI](https://github.com/liamcarter0111/SecureAPI)**: A REST API template with built-in security headers and input validation.  
-- **[CTF-Challenges](https://github.com/liamcarter0111/CTF-Challenges)**: A collection of my favorite Capture The Flag challenges with detailed write-ups.  
+- **[SecureAPI](https://github.com/liamcarter0111/SecureAPI)**: A REST API template with built-in security headers and input validation.
 
 ## 📬 Let’s Connect
 - 📩 **Email**: liamcarter0111@outlook.com  
