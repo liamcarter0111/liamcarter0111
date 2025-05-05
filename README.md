@@ -22,13 +22,13 @@ I'm Liam Carter, a relentless bug hunter and cybersecurity aficionado with a pas
 - 🏅 Won **3rd Place** in Global CTF Competition 2023.  
 
 ## 🌟 Featured Projects
-- **[VulnScanner](https://github.com/LiamCarter/VulnScanner)**: A Python-based tool for automated vulnerability scanning with customizable payloads.  
-- **[SecureAPI](https://github.com/LiamCarter/SecureAPI)**: A REST API template with built-in security headers and input validation.  
-- **[CTF-Challenges](https://github.com/LiamCarter/CTF-Challenges)**: A collection of my favorite Capture The Flag challenges with detailed write-ups.  
+- **[VulnScanner](https://github.com/liamcarter0111/VulnScanner)**: A Python-based tool for automated vulnerability scanning with customizable payloads. [Usage Guide](https://github.com/liamcarter0111/VulnScanner/blob/main/VulnScanner_Usage.md)  
+- **[SecureAPI](https://github.com/liamcarter0111/SecureAPI)**: A REST API template with built-in security headers and input validation.  
+- **[CTF-Challenges](https://github.com/liamcarter0111/CTF-Challenges)**: A collection of my favorite Capture The Flag challenges with detailed write-ups.  
 
 ## 📬 Let’s Connect
 - 📩 **Email**: liamcarter0111@outlook.com  
-- 🐦 **X**: [@LiamTheBugSlayer]([https://x.com/LiamBugSlayer]
+- 🐦 **X**: [@LiamBugSlayer](https://x.com/LiamBugSlayer)  
 
 ## ⚡ Fun Facts
 - I’ve spent **72 hours straight** chasing a single bug (and won).  
